@@ -20,7 +20,7 @@ window.onload = () => {
     let songs = [{
             title: 'Slam',
             artist: 'Pendulum',
-            song_path: 'music/slam.mp3',
+            song_path: 'music/Slam.mp3',
             img_path: 'images/song-1.jpeg'
         },
         {
